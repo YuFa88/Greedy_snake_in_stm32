@@ -2,6 +2,8 @@
 
 (OLED screen + punctual atom battleship development board)
 
+> The code used is modified on the supporting code provided by the Punctuality Atomic Development Board.
+
 ### Experimental equipment:
 
 - Battleship STM32F103 development board V3 version
